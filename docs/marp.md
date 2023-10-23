@@ -3,7 +3,7 @@ marp: true
 theme: gaia
 _class: lead
 paginate: true
-backgroundColor: #fff
+backgroundColor: #000
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
