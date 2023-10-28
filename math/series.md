@@ -84,7 +84,7 @@ $$ \sum_{n=0}^{\infty} \frac{a_n}{x^n} $$
 
 $$ f(x) = \sum_{n=0}^{\infty} \frac{d^n f}{dx^n}(0) \cdot  \frac{x^n}{n!} $$
 
-$$ f(x) = \sum_{n=0}^{\infty} \frac{d^n f}{dx^n}(a) \cdot  \frac{(x-a)^n}{n!} $$ac
+$$ f(x) = \sum_{n=0}^{\infty} \frac{d^n f}{dx^n}(a) \cdot  \frac{(x-a)^n}{n!} $$
 
 Производная в точке a:
 $$ \frac{df}{dx}(a)$$
