@@ -40,5 +40,3 @@ $$ f_n = \frac{1}{2T}\int_{-T}^{T} f(x) \cdot e^{-\frac{in\pi x}{T}} \; dx $$
 Series :
 
 $$ f(x) = \sum_{n=-\infty}^{\infty} f_n \cdot e^{-\frac{in\pi x}{T}} $$ 
-
----

@@ -59,5 +59,3 @@ $$ RP( \frac{\sqrt{\pi}}{2\cdot \sqrt{1-ai}} ) = \frac{\sqrt{\pi}}{2} \cdot RP( 
 $$ \rightarrow \frac{\sqrt{\pi}}{2} \cdot \frac{1}{\sqrt[4]{1^2+a^2}} \cdot \frac{1}{\sqrt{2}} \cdot \frac{\sqrt{\sqrt{a^2+1}+1}}{\sqrt[4]{1+a^2}} \rightarrow $$
 
 $$ \int_{0}^{\infty} e^{-x^2} \cdot \cos(x^2)dx = \frac{\sqrt{\pi}}{2\sqrt{2}} \cdot \frac{\sqrt{\sqrt{a^2+1}+1}}{\sqrt{a^2+1}} $$
-
----
