@@ -23,4 +23,4 @@ $$ a_n = \frac{a_{n+1}+a_{n-1}}{2} $$
 ---
 
 Сумма первых n членов
-$$ S_n = \frac{a_1+a_n}{2} = \frac{2a_1 + d \cdot (n-1)}{2} \cdot n $$33.6
+$$ S_n = \frac{a_1+a_n}{2} = \frac{2a_1 + d \cdot (n-1)}{2} \cdot n $$

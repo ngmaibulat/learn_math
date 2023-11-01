@@ -23,4 +23,3 @@ $$ a_n = a_1 \cdot d^{n-1} $$
 
 Сумма первых n членов
 $$ S_n = \frac{a_1(1-d^n)}{1-d} = \frac{2a_1 + d \cdot (n-1)}{2} \cdot n $$
-gay
