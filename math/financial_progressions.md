@@ -19,7 +19,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ### Формула
 
-Ежемесячный плятёж = $ S \cdot \frac{r*(1+r)^n}{(1+r)^n-1} $
+$$ \text{Платёж в месяц} = S \cdot \frac{r*(1+r)^n}{(1+r)^n-1} $$
 
 S - сумма кредита
 r - месячная ставка
