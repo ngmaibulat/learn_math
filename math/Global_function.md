@@ -14,6 +14,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 Пусть у нас есть непрерывная функция f(x)
 
 Сначало берём производную и преравняем её у нулю
+
 $$ f'(x) = 0 $$
 $$ \lim_{x\to\infty} f(x) \neq \pm \infty $$
 $$ \lim_{x\to-\infty} f(x) \neq \pm \infty $$

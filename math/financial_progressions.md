@@ -19,7 +19,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ### Формула
 
-$$ \text{Платёж в месяц} = S \cdot \frac{r \cdot (1+r)^n}{(1+r)^n-1} $$
+Ежемесячный платёж =  $S \cdot \frac{r \cdot (1+r)^n}{(1+r)^n-1}$
 
 S - сумма кредита
 
@@ -39,7 +39,7 @@ n - кол - во месяцов
 
 ### Формула
 
-$$ \text{Платёж в месяц} = \frac{S}{t} + \frac{S \cdot R \cdot dm}{dy} $$
+Платёж в месяц = $\frac{S}{t} + \frac{S \cdot R \cdot dm}{dy}$
 
 S — оставшаяся сумма платежа
 
