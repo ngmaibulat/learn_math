@@ -94,7 +94,7 @@ $$ \sum_{n=0}^{\infty} \frac{a_n}{x^n} $$
 Примеры Степенного ряда:
 
 $$ e = \sum_{n=0}^{\infty} \frac{1}{n!} $$
-$$ \frac{1}{e} = \sum_{n=2}^{\infty} \frac{(-1)^n}{n!} $$
+$$ \frac{1}{e} = \sum_{n=2}^{\infty} \frac{(-1)^n}{n!} = \sum_{n=0}^{\infty} \frac{(-1)^n}{(n+2)!} $$
 
 ---
 
