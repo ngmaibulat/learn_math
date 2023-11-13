@@ -44,8 +44,6 @@ $$ p < 1 - \text{ряд сходится} $$
 
 $$ p > 1 - \text{ряд разходится} $$ 
 
-<<<<<<< HEAD
-
 - Признак Коши
 
 $$ p = \lim_{n \to \infty} \sqrt[n]{a_n} $$
@@ -62,7 +60,8 @@ $$ p = \int_{p}^{\infty} f(x) \; dx $$
 
 Если p не равно бесконечности то ряд сходится
 Иначе разходится
-=======
+
+
 - Признак Коши
 
 $$ p = \lim_{n \to \infty} \sqrt[n]{a_n} $$
@@ -81,7 +80,6 @@ $$ p = \int_{p}^{\infty} f(x) dx $$
 
 $$ p \neq \pm\infty $$ - ряд сходится
 $$ p = \pm\infty $$ - ряд разходится
->>>>>>> pages
 
 ---
 
@@ -90,20 +88,18 @@ $$ p = \pm\infty $$ - ряд разходится
 $$ \sum_{n=0}^{\infty} f_n(x) $$
 
 Это ряд функций
-<<<<<<< HEAD
 
 Например
 
 $$ R(x) =  \sum_{n=0}^{\infty} \frac{\sin x}{n^2x} $$
 
 $$ R(1) = \sum_{n=0}^{\infty} \frac{\sin 1}{n^2} $$
-=======
+
 Например
 
 $$ R(x) =  \sum_{n=0}^{\infty} \frac{\sin x}{nx} $$
 
 $$ R(1) = \sum_{n=0}^{\infty} \frac{\sin 1}{n} $$
->>>>>>> pages
 
 ---
 
@@ -114,7 +110,6 @@ $$ R(1) = \sum_{n=0}^{\infty} \frac{\sin 1}{n} $$
 Ряд из возрастающей или убывающей степенью
 
 Пример c возрастающей степенью:
-<<<<<<< HEAD
 
 $$ \sum_{n=0}^{\infty} a_n \cdot x^n $$
 
@@ -135,19 +130,3 @@ $$ \frac{1}{e} = \sum_{n=2}^{\infty} \frac{(-1)^n}{n!} = \sum_{n=0}^{\infty} \fr
 
 $$ \sin x = \sum_{n=0}^{\infty} \frac{(-1)^{n}x^{2n+1}}{(2n+1)!} $$
 $$ \cos x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!} $$
-=======
-$$ \sum_{n=0}^{\infty} a_n \cdot x^n $$
-
-Пример c убывающей степенью:
-$$ \sum_{n=0}^{\infty} \frac{a_n}{x^n} $$
-
-#### Примеры Степенного ряда
-
-##### ряд Тейлора
-
-$$ f(x) = \sum_{n=0}^{\infty} \frac{d^n f}{dx^n}(0) \cdot  \frac{x^n}{n!} $$
-
-$$ f(x) = \sum_{n=0}^{\infty} \frac{d^n f}{dx^n}(a) \cdot  \frac{(x-a)^n}{n!} $$
-
-Производная в точке a: $ \frac{df}{dx}(a)$
->>>>>>> pages
